@@ -152,6 +152,11 @@ function Contact() {
           </div>
         </div>
       </div>
+      <div className="contact-footer-all">
+        <div className="contact-footer-block">
+          
+        </div>
+      </div>
     </div>
   )
 }
