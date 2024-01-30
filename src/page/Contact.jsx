@@ -20,11 +20,11 @@ import block_6 from '../assets/block_6.png'
 import block_7 from '../assets/block_7.png'
 function Contact() {
   return (
-    
+
     <div>
-    
-      <div className="head">
-        О компании
+
+      <div className="contactBigImg">
+        <div className="head">О компании</div>
       </div>
       <div className="contact-2-block">
         <p>TRAVELSYSTEM – компания, успешно осуществляющая туроператорскую и агентскую деятельность. <br />

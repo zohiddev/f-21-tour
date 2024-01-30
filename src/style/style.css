@@ -122,6 +122,7 @@ a:active {
 }
 
 .head {
+    position: absolute;
     background-image: url(../assets/bg-about.jpg);
     width: 100%;
     height: 400px;
@@ -134,7 +135,18 @@ a:active {
     font-family: sans-serif;
     margin: -10px 0 0 0;
 }
-
+.contactBigImg{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: 600;
+    color: #fff;
+    font-family: sans-serif;
+    margin: -10px 0 0 0;
+}
 .contact-3-block {
     display: flex;
     align-items: center;
